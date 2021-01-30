@@ -2,3 +2,5 @@
 - Why do we use it?
 - Where does it come from?
 - Where can I get some?
+- How can I get some?
+- Why should I get some?
