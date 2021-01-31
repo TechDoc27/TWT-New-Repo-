@@ -6,7 +6,7 @@ Name: DemoFile
 Paragraph
 
 ## Heading 2
-Paragraph {{page. Name}}
+Paragraph {{page.Name}}
 
 
-This is newly created file. {{page. Name}}
+This is newly created file. {{page.Name}}
